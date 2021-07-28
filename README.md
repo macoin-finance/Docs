@@ -1,3 +1,7 @@
+# Videos, zines, zueras, sites, eventos recomendados a todos
+
+
+
 # Revolution OS - Documentário sobre GNU/Linux - Legendado em PT-BR
 
 https://www.youtube.com/watch?v=Z3f-M43DiD4
@@ -27,4 +31,26 @@ https://area31.net.br/wiki/Manifesto_Criptoanarquista
 
 https://area31.net.br/wiki/Cyphernomicon,_explica%C3%A7%C3%A3o_sobre_a_cultura_e_o_pensamento_dos_cypherpunks
 
+# Slackware ZINE
 
+http://www.slackzine.com.br
+
+# AXUR 05 - DARK SIDE HACKERS - BRAZIL
+
+https://area31.net.br/downloads/axur05/
+
+# H2HC MAGAZINE
+
+http://www.h2hc.com.br/revista/
+
+# Evento BHACK Conference
+
+https://bhack.com.br
+
+# DEFCON
+
+https://defcon.org/
+
+# HACKADAY
+
+https://hackaday.com/
