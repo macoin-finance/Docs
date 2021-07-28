@@ -54,3 +54,7 @@ https://defcon.org/
 # HACKADAY
 
 https://hackaday.com/
+
+# Security Cast
+
+https://securitycast.com.br/
